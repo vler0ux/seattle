@@ -1,0 +1,20 @@
+# Environnements virtuels
+venv/
+env/
+seattle/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Données
+*.csv
+*.data
+*.xlsx
+*.pkl
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
