@@ -37,6 +37,7 @@ Le projet utilise les données de consommation énergétique des bâtiments de S
 # Créer un environnement conda
 conda create -n seattle python=3.13
 conda activate seattle
+conda install jupyter
 ```
 
 ### Installation des dépendances
